@@ -12,3 +12,4 @@ Each time you invoke the command it will automatically deploy all of the process
 included with your server install. If they are already deployed, either manually or using
 the tool you can add the "-nodeploy" parameter to skip that step and improve performance.
 
+Binaries can be downloaded from the latest [release](https://github.com/sirnewton01/projectcreator/releases).
